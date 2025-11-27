@@ -174,8 +174,3 @@ Render / Railway (Backend)
 
 Vercel (Frontend)
 
-
-
----
-# carbon footprint
-
